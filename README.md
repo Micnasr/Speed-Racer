@@ -4,7 +4,9 @@ An arcade racing game where you can choose to play between three modes:
 * 2 Players Timed Fuel Mode :racing_car::fuelpump::racing_car:	
 * Singleplayer VS A.I. :racing_car: :robot:	
 
-<p>I created the game in a week using the Unity3D engine.</p>
+I am very much aware that the game has very weird driving physics. It was the first time messing around with car physics on the engine and I learned so much from this project.
+
+<p>I created the game in a week using the Unity3D engine in June 2020.</p>
 
 Play the game by pressing [HERE](https://micnasr.itch.io/speed-racer)!
 
